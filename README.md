@@ -1,7 +1,7 @@
-marokani
+marokanigassen
 ========
 
-かにチャット
+まろかに合戦
 
 ### 言語について
 
